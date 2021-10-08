@@ -336,8 +336,11 @@ If you don't add it, you can't allow overlay permission.
 ![](https://i.imgur.com/XOxLU91.png)
 
 Add the service above the end of application tag (change the package name of your menu if you had changed it)
+
 ```xml
-<service android:name="uk.lgl.modmenu.FloatingModMenuService" android:enabled="true" android:exported="false" android:stopWithTask="true"/>
+
+<service android:name="com.google.menu.Menu" android:enabled="true" android:exported="false"
+    android:stopWithTask="true" />
 ```
 
 ![](https://i.imgur.com/rw0hawa.png)
@@ -386,11 +389,13 @@ If you don't remove `<action android:name="android.intent.action.MAIN"/>` from t
 near the end of application tag `</application>`, add your main activity above it. `uk.lgl.MainActivity` is your main activity
 
 ```xml
-<activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="uk.lgl.MainActivity">
-     <intent-filter>
-         <action android:name="android.intent.action.MAIN"/>
-         <category android:name="android.intent.category.LAUNCHER"/>
-     </intent-filter>
+
+<activity android:configChanges="keyboardHidden|orientation|screenSize"
+    android:name="com.google.MainActivity">
+    <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+    </intent-filter>
 </activity>
 ```
 
