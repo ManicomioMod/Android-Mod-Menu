@@ -22,7 +22,7 @@ Or download Releases here https://github.com/LGLTeam/Android-Mod-Menu/releases
 
 https://github.com/LGLTeam/Android-Mod-Menu/wiki
 
-# Credits/Acknowledgements
+# Credits
 Thanks to the following individuals whose code helped me develop this mod menu
 
 * Octowolve/Escanor - Mod menu: https://github.com/z3r0Sec/Substrate-Template-With-Mod-Menu and Hooking: https://github.com/z3r0Sec/Substrate-Hooking-Example
@@ -34,3 +34,8 @@ Thanks to the following individuals whose code helped me develop this mod menu
 
 # License
 **GNU General Public License 3**
+
+# Disclaimer
+This project is for Educational Use only. We do not condone this project being used to gain an advantage against other people. This project was made for fun
+
+While commecial use/selling is allowed, we still strongly refrain you from buying any source codes on Telegram even if the author can be trusted, there is always a risk getting scammed. We will not be responsible for that. This project is always FREE to use
