@@ -167,6 +167,7 @@ jobjectArray GetFeatureList(JNIEnv *env, jobject context) {
             OBFUSCATE("CollapseAdd_Toggle_The toggle"),
             OBFUSCATE("CollapseAdd_Toggle_The toggle"),
             OBFUSCATE("123_CollapseAdd_Toggle_The toggle"),
+            OBFUSCATE("122_CollapseAdd_CheckBox_Check box"),
             OBFUSCATE("CollapseAdd_Button_The button"),
 
             //Create new collapse again
