@@ -47,6 +47,6 @@ Thanks to the following individuals whose code helped me develop this mod menu
 **GNU General Public License 3**
 
 # Disclaimer
-This project is for Educational Use only. We do not condone this project being used to gain an advantage against other people. This project was made for fun
+This project is for Educational Use only. We do not condone this project being used to gain an advantage against other people. This project was made for fun. If you are using this project for modding/hacking PU*G, C*DM, and any other Tencent games, we ask you to STOP immediately and remove any contents related to it, you will get legal troubles no matter what!
 
 While commecial use/selling is allowed, we still strongly refrain you from buying any source codes on Telegram even if the author can be trusted, there is always a risk getting scammed. We will not be responsible for that. This project is always FREE to use
