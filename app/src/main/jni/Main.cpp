@@ -268,7 +268,7 @@ void Changes(JNIEnv *env, jclass clazz, jobject obj,
             // Since we have instanceBtn as a field, we can call it out of Update hook function
             if (instanceBtn != NULL)
                 AddMoneyExample(instanceBtn, 999999);
-            // MakeToast(env, obj, OBFUSCATE("Button pressed"), Toast::LENGTH_SHORT);
+            // Toast(env, obj, OBFUSCATE("Button pressed"), ToastLength::LENGTH_SHORT);
             break;
         case 5:
             break;
